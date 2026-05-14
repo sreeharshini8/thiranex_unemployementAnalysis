@@ -57,7 +57,9 @@ Two datasets are used in this project:
 - Seasonal variations were observed in employment trends  
 
 ---
+
 <img width="960" height="564" alt="Screenshot 2026-05-15 133119" sr<img width="960" height="564" alt="Screenshot 2026-05-15 133155" src="https://github.com/user-attachments/assets/72ab3c49-8eca-4e49-aba2-4e437df47ecc" />
+
 <img width="960" height="564" alt="Screenshot 2026-05-15 133142" src="https://github.com/user-attachments/assets/b13b880b-e522-4012-942f-f2d135b8ae98" />
 c="https://github.com/user-attachments/assets/99948bb2-537b-4ec3-a39d-63f3f50f0724" />
 <img width="960" height="564" alt="Screenshot 2026-05-15 133057" src="https://github.com/user-attachments/assets/de44fca0-bdd3-4f62-b403-db1a786b4ee4" />
