@@ -30,7 +30,7 @@ Two datasets are used in this project:
 ---
 
 ## 🛠️ Tools & Technologies Used
-- Python 🐍  
+- Python
 - Pandas  
 - NumPy  
 - Matplotlib  
